@@ -2,10 +2,6 @@
 ### 담당 강사 : 최기근
 <br/>
 
-[영남병원 리뷰 보기](https://namu6747.github.io/posts/first-hospital/)
-
-
-
 - 팀원 : 박재민, 신지훈, 제승후
 - Java, JavaFX, MySQL
 - 소켓을 활용한 네트워크 구성
