@@ -34,5 +34,8 @@
 실시간 상담
 ```
 
+프로젝트 리뷰는 아래 블로그에서 확인하실 수 있습니다.😄
 
+1차 프로젝트 영남병원🤔  
+https://namu6747.github.io/posts/first-hospital/
 
