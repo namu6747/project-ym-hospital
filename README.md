@@ -3,7 +3,7 @@
 <br/>
 
 - 팀원 : 박재민, 신지훈, 제승후
-- Java, JavaFX, MySQL
+- Java, JavaFX, MySQL, Notion
 - 소켓을 활용한 네트워크 구성
 - MVC 패턴 차용
 - 유저 / 관리자 형식의 클라이언트 - 서버 구조
